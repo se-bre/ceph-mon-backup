@@ -23,4 +23,6 @@ it puts all output in a log file
 **don´t run this script on all hosts at the same time! this will stop your cluster!**  
 create a cronjob
 
+---
 
+more information: https://blog.widodh.nl/2014/03/safely-backing-up-your-ceph-monitors/
